@@ -1,0 +1,1 @@
+This folder is used like the prototypes (Withereds) are in FNAF2 -- taken for spare parts and never used.

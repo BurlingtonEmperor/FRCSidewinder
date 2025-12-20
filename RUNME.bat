@@ -2,6 +2,8 @@
 
 set installation_error=0
 
+echo Install Tesseract First (Setup EXE is in this directory) before running the program.
+
 python --version >nul 2>&1
 if %errorlevel% neq 0 (
     echo Python is NOT installed or not in PATH.
